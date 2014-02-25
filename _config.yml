@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Poole
 tagline:          'The Jekyll Butler'
 description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+url:              http://russb78.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Russell Barnes'
+  url:            https://twitter.com/another_russell
 
 paginate:         1
 
