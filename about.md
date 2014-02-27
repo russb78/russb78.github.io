@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-  Hello! I'm Russell and I'm currently the editor of *Linux User & Developer magazine*. This is a little bit about me...
+  Hello! I'm Russell and I'm currently the editor of *Linux User and Developer magazine*. This is a little bit about me...
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
