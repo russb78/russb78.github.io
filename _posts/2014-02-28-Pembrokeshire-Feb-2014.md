@@ -8,7 +8,5 @@ Rebecca and I often come to St. Davids on the Pembrokeshire coast for a long wee
 
 It also offers some of incredible traditional architecture.
 
-![Mr Griffith's house](http://i.imgur.com/LyIuV3U)
-
-
+![Mr Griffith's house, next door](/assets/mr_griffiths_house_wales.jpg)
 
