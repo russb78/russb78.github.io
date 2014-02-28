@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pembrokeshire Feb 2014
+title: Pembrokeshire - Feb 2014
 comments: True
 ---
 
