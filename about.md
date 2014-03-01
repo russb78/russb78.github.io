@@ -7,7 +7,7 @@ title: About Me
   Hello! I'm Russell and I'm the editor of Linux User and Developer magazine...
 </p>
 
-![Russell Barnes](/assets/Russell_twitter.png "I'm waving")
+![Russell Barnes](/assets/Russell_twitter.jpg "I'm waving")
 
 I've been a computer & technology writer for over 15 years. 
 
