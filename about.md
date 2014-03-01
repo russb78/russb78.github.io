@@ -7,6 +7,8 @@ title: About Me
   Hello! I'm Russell and I'm the editor of Linux User and Developer magazine...
 </p>
 
+![Russell Barnes](/assets/Russell_twitter.png "I'm waving")
+
 I've been a computer & technology writer for over 15 years. 
 
 I walked into it entirely by accident. While working as the manager of a *GAME* store in the south of England circa 1998 I was approached by a regular customer who was an editor for a local publishing firm. Soon after I was writing solutions for PC games that were contracted to a publisher in Italy and writing reviews for a small UK PlayStation magazine.
