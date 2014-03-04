@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Russell Barnes
-tagline:          'The Jekyll Butler'
+tagline:          'Editor, Linux User & Developer magazine'
 description:      'Base theme for Jekyll themes by @mdo.'
 url:              http://russb78.github.io
 
@@ -15,13 +15,13 @@ author:
   name:           'Russell Barnes'
   url:            https://twitter.com/another_russell
 
-paginate:         1
+paginate:         10
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/russb78/russb78.github.io
 
-# This is the list of pages to incldue in the header of the website.
+# This is the list of pages to include in the header of the website.
 pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
