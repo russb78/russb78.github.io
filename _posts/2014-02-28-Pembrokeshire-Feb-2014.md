@@ -14,6 +14,8 @@ The following shots is one of my favourites, not least because it's taken next d
 
 ![Mr Griffiths house, next door](/assets/mr_griffiths_house_wales.jpg "Mr Griffiths' house, next door")
 
+<!-- more --> 
+
 Sadly Mr Griffiths is no longer with us. As far as I know the house is going to the National Trust. This shot was from 2008 - it's in a terrible state these days and in danger of falling down.
 
 The top of a tall hill directly behind the cottage leads straight to the cliff top. The coastal paths here are completely breathtaking. You'd never spend more than a few minutes without seeing some combination of wild horses, otters, seals or rare birds.
