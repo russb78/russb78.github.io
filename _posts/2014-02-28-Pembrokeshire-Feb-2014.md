@@ -26,3 +26,5 @@ The top of a tall hill directly behind the cottage leads straight to the cliff t
 A short drive away is St. David's RLNI Lifeboat Station. Commercial boat trips also set off from here and require you to walk the steel ramp leading into the water. That's Rebecca at the bottom of the shot.
 
 ![St. David's Lifeboat Station](/assets/lifeboat_station_wales_bw.jpg "Bright red roof not shown here")
+
+---
