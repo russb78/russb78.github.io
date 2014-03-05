@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Pembrokeshire - Feb 2014
+title: Pembrokeshire in black and white
 comments: True
+excerpt: A small collection of shots from a sleepy part of the Welsh countryside
 ---
 
 Rebecca and I often visit St. David's on the Pembrokeshire coast for a long weekend. Rebecca's family own a lovely a little cottage just shy of the cliffs in a tiny hamlet called Treleddyd-fawr. 
