@@ -21,7 +21,9 @@ In 2007 I took an editor role at [*Imagine Publishing Ltd*](http://www.imaginepu
 
 Despite the brand being dormant for a few years before *Imagine* acquired it, *Linux User* is now consistently the UK's best selling Linux and open source magazine and performs well throughout Europe, America and Australia.
 
-Since taking over, the magazine supports open source, educational and charitable organisations via free advertising campaigns. These include [*LibreOffice*](http://libreoffice.org), [*Code Club*](www.codeclub.org.uk) and [*Computer Aid International*](http://www.computeraid.org).
+Since taking over the magazine I started supporting open source, educational and charitable organisations via free advertising campaigns. These include [*LibreOffice*](http://libreoffice.org), [*Code Club*](www.codeclub.org.uk) and [*Computer Aid International*](http://www.computeraid.org).
+
+They're all projects I'm emotionally invested in, so even if one reader downloads or donates it's well worth it. 
 
 You can follow *Linux User* on [Twitter](https://twitter.com/linuxusermag) and [Facebook](http://www.facebook.com/LinuxUserUK).
 

@@ -1,0 +1,19 @@
+---
+layout: post
+title: A very small corner of the internet
+comments: True
+excerpt: It was about time I built a website, so it's probably about time I wrote something about building it...
+---
+I'd been meaning to build my own website for a while, but work commitments and other projects have been holding me back for quite some time. 
+
+Last week, however, I made a concious effort to sit down and get it done - it's about time I get to grips with HTML and CSS (among other web-based stuff).
+
+To keep things simple I elected to check out [Jekyll](http://jekyllrb.com) (designed and developed by Mark Otto - [@mdo](https://twitter.com/mdo)). It's a brilliant static site generator that's been picking up a fair bit of traction of late, not least because [Github](http://github.com) uses it. 
+
+Since I already owned russellbarnes.co.uk and I can host the site via [Github Pages](http://pages.github.com/) it's a cheap and cheerful way to learn. 
+
+While there are a couple of nice official themes available in [Hyde](http://hyde.getpoole.com) and [Lanyon](http://lanyon.getpoole.com), I decided to start with the blank canvas [Poole](http://getpoole.com/) provides. 
+
+So far I've added Google Analytics, a bespoke [Archive](/archive) page an Atom RSS Feed and Disqus comments. It's a great way to tinker with basic HTML and the special sauce Jekyll adds is great fun to hack around with.
+
+The next step is to theme it up a bit and see what kind of mess I can create with CSS...
