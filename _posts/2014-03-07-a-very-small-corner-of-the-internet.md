@@ -10,7 +10,7 @@ Last week, however, I made a concious effort to sit down and get it done - it's 
 
 To keep things simple I elected to check out [Jekyll](http://jekyllrb.com) (designed and developed by Mark Otto - [@mdo](https://twitter.com/mdo)). It's a brilliant static site generator that's been picking up a fair bit of traction of late, not least because [Github](http://github.com) uses it. 
 
-Since I already owned russellbarnes.co.uk and I can host the site via [Github Pages](http://pages.github.com/) it's a cheap and cheerful way to learn. 
+Since I already owned russellbarnes.co.uk and I can host the site via [Github Pages](http://pages.github.com/) - it's a cheap and cheerful way to learn. 
 
 While there are a couple of nice official themes available in [Hyde](http://hyde.getpoole.com) and [Lanyon](http://lanyon.getpoole.com), I decided to start with the blank canvas [Poole](http://getpoole.com/) provides. 
 
