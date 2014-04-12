@@ -10,15 +10,15 @@ The process for putting a 100+ page magazine like [Linux User](http://www.imagin
 
 ![Raspberry Pi](/assets/RaspberryPi.jpg "My latest computer - the Raspberry Pi. (Jwrodgers. Cc Share Alike 3.0)")
 
-My current muse is the [Raspberry Pi](http://raspberrypi.org). Over the last couple of years this tiny credit card-sized Linux PC has made me feel 25 years younger and inspired me to follow my childhood ambition of programming games and gadgets.
+My current muse is the [Raspberry Pi](http://raspberrypi.org). Over the last couple of years this tiny credit card-sized Linux PC has made me feel 25 years younger and inspired me to follow my childhood ambition of programming gadgets and games.
 
-I think part of the reason it's captured my imagination is that it's such a fond reminder of spending hours writing out code listings from magazines onto my trusty [Amstrad CPC 464](http://en.wikipedia.org/wiki/Amstrad_CPC).
+I don't know why it's captured my imagination, but it's definitely a fond reminder of spending hours writing out code listings from magazines onto my trusty [Amstrad CPC 464](http://en.wikipedia.org/wiki/Amstrad_CPC) as a kid.
 
 ![Amstrad CPC464](/assets/Amstrad_CPC464.jpg "My first computer - the Amstrad CPC464. (Bill Bertram. Cc-by-2.5)")
 
-My parents bought it not long after it came out in 1984 and I remember the trip to buy it well. Having grown up with hand-me-downs and wooden toys made by my dad, the trip to John Menzies to collect the latest in computer technology was easily the most incredible thing my six-year-old self could have ever imagined.
+My parents bought it not long after it came out in 1984 and I remember the trip to buy it well. Having grown up with hand-me-downs and wooden toys made by my dad, the trip to John Menzies to collect the latest in computer technology was the most incredible thing my six-year-old self could have imagined.
 
-The Raspberry Pi is designed to spark the same kind of passion for bare-metal computing in today's younger generation and at only £25, it's much more accessible and ea.
+The Raspberry Pi is designed to spark the same kind of passion for bare-metal computing in today's younger generation and at only £25, it's much more accessible.
 
 ![Master Raspberry Pi](/assets/practical_raspberry_pi.jpg "Linux User issue 138")
 
