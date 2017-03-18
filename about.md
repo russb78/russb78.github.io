@@ -9,12 +9,12 @@ title: About Rosie
 
 While she was large for her age, she was only 2lb 13. Rosie was in Poole Neonatal Intensive Care (NICU) for two and a half months.
 
-![Rosie at around eight minutes.](/assets/Rosie_8_mins.jpg "Rosie at eight minutes.")
+![Rosie at around six minutes.](/assets/Rosie_8_mins.jpg "Rosie at eight minutes.")
 <p class="message">
-  Rosie at around eight minutes.
+  Rosie at around six minutes.
 </p>
 
-![Rosie at around around eight months. Quite the transformation!](/assets/Rosie small file-1.jpg "Rosie at eight months.")
+![Rosie at around around six months. Quite the transformation!](/assets/Rosie small file-1.jpg "Rosie at eight months.")
 <p class="message">
-Rosie at around around eight months. Quite the transformation!
+Rosie at around around six months. Quite a transformation!
 </p>
