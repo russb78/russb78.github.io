@@ -7,5 +7,4 @@ _site/
 .sass-cache/
 *.*~
 _release
-
-
+.DS_Store
